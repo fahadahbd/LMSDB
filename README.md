@@ -1,2 +1,2 @@
 # LMSDB
-Database project using SQL
+The Library Management System maintains information about books, authors, members, and staff. I use it to record transactions like issuing and returning books, updating information, and adding new members. This system helps me and students track available books effectively. I created entity sets and established their relationships, allowing me to determine cardinality and generate efficient SQL queries with complex conditions.
